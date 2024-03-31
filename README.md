@@ -3,12 +3,11 @@ Creating a README for your GitHub repository is a great way to introduce your pr
 
 ---
 
-# ChatGPT Language Evolution Analysis
 
 This repository contains the code and datasets used in our study to explore ChatGPT's understanding of the development of human language, spanning from ancient to modern times across five major languages: English, Chinese, Spanish, French, and German. Our research utilizes custom datasets to evaluate ChatGPT's comprehension and adaptability to linguistic changes over centuries.
 
 
-## Datasets
+### Datasets
 
 We employ two custom-compiled datasets for this study:
 
